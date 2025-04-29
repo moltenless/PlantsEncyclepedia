@@ -60,7 +60,7 @@
             this.MaximumSize = new System.Drawing.Size(660, 360);
             this.Name = "FilteredPlantsForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "Отфильтрованный список растений";
+            this.Text = "Filtered plants list";
             this.Load += new System.EventHandler(this.FilteredPlantsForm_Load);
             this.Scroll += new System.Windows.Forms.ScrollEventHandler(this.FilteredPlantsForm_Scroll);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCross)).EndInit();

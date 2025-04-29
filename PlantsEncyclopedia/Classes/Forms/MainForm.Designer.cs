@@ -65,7 +65,7 @@
             this.groupBoxChar.Size = new System.Drawing.Size(224, 613);
             this.groupBoxChar.TabIndex = 1;
             this.groupBoxChar.TabStop = false;
-            this.groupBoxChar.Text = "Характеристики растений";
+            this.groupBoxChar.Text = "Plants characteristics";
             // 
             // panelChar
             // 
@@ -94,7 +94,7 @@
             this.labelCharImages.Size = new System.Drawing.Size(208, 25);
             this.labelCharImages.TabIndex = 1;
             this.labelCharImages.TabStop = true;
-            this.labelCharImages.Text = "Изображения";
+            this.labelCharImages.Text = "Image";
             this.labelCharImages.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // labelCharName
@@ -112,7 +112,7 @@
             this.labelCharName.Size = new System.Drawing.Size(208, 25);
             this.labelCharName.TabIndex = 0;
             this.labelCharName.TabStop = true;
-            this.labelCharName.Text = "Полное назание растения ";
+            this.labelCharName.Text = "Plant full name";
             this.labelCharName.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // buttonRemoveChar
@@ -125,7 +125,7 @@
             this.buttonRemoveChar.Name = "buttonRemoveChar";
             this.buttonRemoveChar.Size = new System.Drawing.Size(102, 24);
             this.buttonRemoveChar.TabIndex = 1;
-            this.buttonRemoveChar.Text = "Удалить";
+            this.buttonRemoveChar.Text = "Remove";
             this.buttonRemoveChar.UseVisualStyleBackColor = false;
             this.buttonRemoveChar.Click += new System.EventHandler(this.RemoveChar);
             // 
@@ -137,7 +137,7 @@
             this.buttonAddChar.Name = "buttonAddChar";
             this.buttonAddChar.Size = new System.Drawing.Size(102, 24);
             this.buttonAddChar.TabIndex = 0;
-            this.buttonAddChar.Text = "Добавить";
+            this.buttonAddChar.Text = "Add";
             this.buttonAddChar.UseVisualStyleBackColor = false;
             this.buttonAddChar.Click += new System.EventHandler(this.AddChar);
             // 
@@ -156,7 +156,7 @@
             this.groupBoxFilter.Size = new System.Drawing.Size(1002, 181);
             this.groupBoxFilter.TabIndex = 5;
             this.groupBoxFilter.TabStop = false;
-            this.groupBoxFilter.Text = "Поиск растений с заданным фильтром";
+            this.groupBoxFilter.Text = "Plants search with specified criteriа";
             // 
             // buttonTick
             // 
@@ -236,7 +236,7 @@
             this.groupBoxPlants.Size = new System.Drawing.Size(1002, 426);
             this.groupBoxPlants.TabIndex = 4;
             this.groupBoxPlants.TabStop = false;
-            this.groupBoxPlants.Text = "Список растений";
+            this.groupBoxPlants.Text = "Plants list";
             // 
             // panelPlants
             // 
@@ -257,7 +257,7 @@
             this.buttonAddPlant.Name = "buttonAddPlant";
             this.buttonAddPlant.Size = new System.Drawing.Size(110, 28);
             this.buttonAddPlant.TabIndex = 0;
-            this.buttonAddPlant.Text = "Добавить";
+            this.buttonAddPlant.Text = "Add";
             this.buttonAddPlant.UseVisualStyleBackColor = false;
             this.buttonAddPlant.Click += new System.EventHandler(this.AddPlant);
             // 
@@ -272,7 +272,7 @@
             this.buttonChangePlant.Name = "buttonChangePlant";
             this.buttonChangePlant.Size = new System.Drawing.Size(110, 28);
             this.buttonChangePlant.TabIndex = 2;
-            this.buttonChangePlant.Text = "Изменить";
+            this.buttonChangePlant.Text = "Change";
             this.buttonChangePlant.UseVisualStyleBackColor = false;
             this.buttonChangePlant.Click += new System.EventHandler(this.ChangePlant);
             // 
@@ -287,7 +287,7 @@
             this.buttonRemovePlant.Name = "buttonRemovePlant";
             this.buttonRemovePlant.Size = new System.Drawing.Size(84, 28);
             this.buttonRemovePlant.TabIndex = 1;
-            this.buttonRemovePlant.Text = "Удалить";
+            this.buttonRemovePlant.Text = "Remove";
             this.buttonRemovePlant.UseVisualStyleBackColor = false;
             this.buttonRemovePlant.Click += new System.EventHandler(this.RemovePlant);
             // 
@@ -296,7 +296,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.LightCyan;
             this.BackgroundImage = global::PlantsEncyclopedia.Properties.Resources.background;
-            this.ClientSize = new System.Drawing.Size(1264, 682);
+            this.ClientSize = new System.Drawing.Size(1264, 681);
             this.Controls.Add(this.groupBoxFilter);
             this.Controls.Add(this.groupBoxPlants);
             this.Controls.Add(this.groupBoxChar);
@@ -307,7 +307,7 @@
             this.MinimumSize = new System.Drawing.Size(1280, 720);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Энциклопедия растений";
+            this.Text = "Plants encyclopedia";
             this.groupBoxChar.ResumeLayout(false);
             this.panelChar.ResumeLayout(false);
             this.groupBoxFilter.ResumeLayout(false);

@@ -61,7 +61,7 @@
             this.groupBoxAdd.Size = new System.Drawing.Size(559, 300);
             this.groupBoxAdd.TabIndex = 0;
             this.groupBoxAdd.TabStop = false;
-            this.groupBoxAdd.Text = "Добавление характеристики в существующии растения";
+            this.groupBoxAdd.Text = "Characteristics addition to existing plants";
             // 
             // comboBoxList
             // 
@@ -121,9 +121,9 @@
             this.labelTip.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelTip.Location = new System.Drawing.Point(296, 233);
             this.labelTip.Name = "labelTip";
-            this.labelTip.Size = new System.Drawing.Size(267, 15);
+            this.labelTip.Size = new System.Drawing.Size(214, 15);
             this.labelTip.TabIndex = 6;
-            this.labelTip.Text = "! для вставки новых елементов нажмите Enter";
+            this.labelTip.Text = "! for new elements insertion press Enter";
             this.labelTip.Visible = false;
             // 
             // buttonТext
@@ -135,7 +135,7 @@
             this.buttonТext.Name = "buttonТext";
             this.buttonТext.Size = new System.Drawing.Size(158, 39);
             this.buttonТext.TabIndex = 4;
-            this.buttonТext.Text = "Далее";
+            this.buttonТext.Text = "Next";
             this.buttonТext.UseVisualStyleBackColor = false;
             this.buttonТext.Click += new System.EventHandler(this.Next);
             // 
@@ -145,9 +145,9 @@
             this.labelCharName.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelCharName.Location = new System.Drawing.Point(294, 43);
             this.labelCharName.Name = "labelCharName";
-            this.labelCharName.Size = new System.Drawing.Size(113, 25);
+            this.labelCharName.Size = new System.Drawing.Size(75, 25);
             this.labelCharName.TabIndex = 1;
-            this.labelCharName.Text = "Название";
+            this.labelCharName.Text = "Name";
             // 
             // labelPlantName
             // 
@@ -155,9 +155,9 @@
             this.labelPlantName.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelPlantName.Location = new System.Drawing.Point(30, 43);
             this.labelPlantName.Name = "labelPlantName";
-            this.labelPlantName.Size = new System.Drawing.Size(99, 25);
+            this.labelPlantName.Size = new System.Drawing.Size(75, 25);
             this.labelPlantName.TabIndex = 0;
-            this.labelPlantName.Text = "Назвние";
+            this.labelPlantName.Text = "Name";
             // 
             // pictureBoxBackground
             // 

@@ -63,7 +63,7 @@
             this.groupBox.Size = new System.Drawing.Size(719, 424);
             this.groupBox.TabIndex = 0;
             this.groupBox.TabStop = false;
-            this.groupBox.Text = "Изменить данные о растении ";
+            this.groupBox.Text = "Change information about the plant";
             // 
             // buttonCreate
             // 
@@ -76,7 +76,7 @@
             this.buttonCreate.Name = "buttonCreate";
             this.buttonCreate.Size = new System.Drawing.Size(149, 52);
             this.buttonCreate.TabIndex = 4;
-            this.buttonCreate.Text = "Готово";
+            this.buttonCreate.Text = "OK";
             this.buttonCreate.UseVisualStyleBackColor = false;
             this.buttonCreate.Click += new System.EventHandler(this.Change);
             // 
@@ -119,9 +119,9 @@
             this.labelCharsInfo.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.labelCharsInfo.Location = new System.Drawing.Point(0, 0);
             this.labelCharsInfo.Name = "labelCharsInfo";
-            this.labelCharsInfo.Size = new System.Drawing.Size(197, 25);
+            this.labelCharsInfo.Size = new System.Drawing.Size(168, 25);
             this.labelCharsInfo.TabIndex = 2;
-            this.labelCharsInfo.Text = "Характеристики:";
+            this.labelCharsInfo.Text = "Characteristics:";
             // 
             // panel2
             // 
@@ -155,7 +155,7 @@
             this.buttonAdd.Name = "buttonAdd";
             this.buttonAdd.Size = new System.Drawing.Size(129, 33);
             this.buttonAdd.TabIndex = 6;
-            this.buttonAdd.Text = "Добавить";
+            this.buttonAdd.Text = "Add";
             this.buttonAdd.UseVisualStyleBackColor = false;
             this.buttonAdd.Click += new System.EventHandler(this.AddImage);
             // 
@@ -165,9 +165,9 @@
             this.label2.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.Location = new System.Drawing.Point(-2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(163, 25);
+            this.label2.Size = new System.Drawing.Size(94, 25);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Изображения:";
+            this.label2.Text = "Images:";
             // 
             // panel1
             // 
@@ -196,9 +196,9 @@
             this.label1.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(119, 25);
+            this.label1.Size = new System.Drawing.Size(81, 25);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Название:";
+            this.label1.Text = "Name:";
             // 
             // ChangePlantForm
             // 

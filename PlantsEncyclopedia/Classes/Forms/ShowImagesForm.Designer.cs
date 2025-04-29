@@ -76,7 +76,7 @@
             this.buttonCopy.Size = new System.Drawing.Size(84, 39);
             this.buttonCopy.TabIndex = 2;
             this.buttonCopy.TabStop = false;
-            this.buttonCopy.Text = "Скопировать";
+            this.buttonCopy.Text = "Copy";
             this.buttonCopy.UseVisualStyleBackColor = false;
             this.buttonCopy.Click += new System.EventHandler(this.Copy);
             // 
@@ -92,7 +92,7 @@
             this.buttonNext.Size = new System.Drawing.Size(84, 39);
             this.buttonNext.TabIndex = 1;
             this.buttonNext.TabStop = false;
-            this.buttonNext.Text = "Вперёд";
+            this.buttonNext.Text = "Forth";
             this.buttonNext.UseVisualStyleBackColor = false;
             this.buttonNext.Click += new System.EventHandler(this.Next);
             // 
@@ -109,7 +109,7 @@
             this.buttonBack.Size = new System.Drawing.Size(84, 39);
             this.buttonBack.TabIndex = 0;
             this.buttonBack.TabStop = false;
-            this.buttonBack.Text = "Назад";
+            this.buttonBack.Text = "Back";
             this.buttonBack.UseVisualStyleBackColor = false;
             this.buttonBack.Click += new System.EventHandler(this.Back);
             // 

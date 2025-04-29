@@ -61,7 +61,7 @@
             this.groupBoxAdd.Size = new System.Drawing.Size(559, 300);
             this.groupBoxAdd.TabIndex = 0;
             this.groupBoxAdd.TabStop = false;
-            this.groupBoxAdd.Text = "Добавление характеристики";
+            this.groupBoxAdd.Text = "Characteristic addition";
             // 
             // pictureBoxCross
             // 
@@ -78,11 +78,11 @@
             // 
             this.labelTip.AutoSize = true;
             this.labelTip.Font = new System.Drawing.Font("Century Gothic", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.labelTip.Location = new System.Drawing.Point(296, 233);
+            this.labelTip.Location = new System.Drawing.Point(296, 237);
             this.labelTip.Name = "labelTip";
-            this.labelTip.Size = new System.Drawing.Size(267, 15);
+            this.labelTip.Size = new System.Drawing.Size(214, 15);
             this.labelTip.TabIndex = 6;
-            this.labelTip.Text = "! для вставки новых елементов нажмите Enter";
+            this.labelTip.Text = "! for new elements insertion press Enter";
             this.labelTip.Visible = false;
             // 
             // textBoxList
@@ -109,7 +109,7 @@
             this.buttonAddChar.Name = "buttonAddChar";
             this.buttonAddChar.Size = new System.Drawing.Size(158, 39);
             this.buttonAddChar.TabIndex = 4;
-            this.buttonAddChar.Text = "Добавить";
+            this.buttonAddChar.Text = "Add";
             this.buttonAddChar.UseVisualStyleBackColor = false;
             this.buttonAddChar.Click += new System.EventHandler(this.AddChar);
             // 
@@ -150,9 +150,9 @@
             this.label2.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.Location = new System.Drawing.Point(294, 43);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(47, 25);
+            this.label2.Size = new System.Drawing.Size(60, 25);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Тип";
+            this.label2.Text = "Type";
             // 
             // label1
             // 
@@ -160,9 +160,9 @@
             this.label1.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(30, 43);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(113, 25);
+            this.label1.Size = new System.Drawing.Size(75, 25);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Название";
+            this.label1.Text = "Name";
             // 
             // pictureBoxBackground
             // 

@@ -34,7 +34,7 @@ namespace PlantsEncyclopedia
             labelShowImages.Location = new Point(3, 319);
             labelShowImages.Size = new Size(149, 16);
             labelShowImages.TabStop = true;
-            labelShowImages.Text = "другие изображения";
+            labelShowImages.Text = "other images";
             labelShowImages.Click += ShowImages;
 
             //labelShowImages
@@ -47,7 +47,7 @@ namespace PlantsEncyclopedia
             labelShowInfo.Location = new Point(177, 319);
             labelShowInfo.Size = new Size(147, 16);
             labelShowInfo.TabStop = true;
-            labelShowInfo.Text = "полная информация";
+            labelShowInfo.Text = "full info";
             labelShowInfo.Click += ShowInfo;
 
             //pictureBoxImage
