@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Энциклопедия растений", "Энциклопедия растений\Энциклопедия растений.csproj", "{950EB265-B5FC-4B19-8EBF-E335FAC3BAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950EB265-B5FC-4B19-8EBF-E335FAC3BAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950EB265-B5FC-4B19-8EBF-E335FAC3BAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950EB265-B5FC-4B19-8EBF-E335FAC3BAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950EB265-B5FC-4B19-8EBF-E335FAC3BAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EC5A762-563A-4E56-97F0-870398267E99}
+	EndGlobalSection
+EndGlobal
