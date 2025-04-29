@@ -20,22 +20,9 @@ PlantsEncyclopedia lets you:
 - 🖥️ **Simple Desktop UI** – Built for ease-of-use and offline access.
 - 🌍 **Fully Customizable** – You decide what criteria matter.
 - 🧠 **Dynamic Filtering** – Powerful search and filtering based on user-defined logic.
-- 🧾 **Plant Info Storage** – Keep notes and data on each plant in your collection.
-- 💾 **Persistent Data** – Save and load your collection anytime (if implemented).
-
 ---
+![image](https://github.com/user-attachments/assets/d9b20655-db65-4658-b9ff-855c43fbc55f)  
+  
+![image](https://github.com/user-attachments/assets/b564f333-6037-4d98-806a-588bfc0ab587)
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-Make sure you have the appropriate runtime installed:
-- [Python](https://www.python.org/) + GUI toolkit (e.g., Tkinter or PyQt)  
-_OR_  
-- Executable version for Windows/macOS/Linux
-
-### Installation
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/PlantsEncyclopedia.git
+![image](https://github.com/user-attachments/assets/18b84941-b043-4541-8cd4-34c21b474ae5)
