@@ -26,3 +26,6 @@ PlantsEncyclopedia lets you:
 ![image](https://github.com/user-attachments/assets/b564f333-6037-4d98-806a-588bfc0ab587)
 
 ![image](https://github.com/user-attachments/assets/18b84941-b043-4541-8cd4-34c21b474ae5)
+
+
+---
