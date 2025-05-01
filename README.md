@@ -1,4 +1,4 @@
-# 🌿 Plant Encyclopedia
+# 🌿 Plant Encyclopedia (Screenshots are below)
 
 **A desktop encyclopedia for organizing, exploring, and filtering your plant collection with custom-defined criteria. Build your green database your way.**
 
